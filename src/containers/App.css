@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+.app {
+    text-align: center;
+}
+.app h1{
+    margin: 2rem;
+    text-align: center;
+    color: #f2f0f6;
+    font-family: 'Bangers';
+    font-size: 4rem;
+    letter-spacing: 4px;
+}
+input {
+    text-align: center;
+    height: 32px;
+    width: 200px;
+    border-radius: 0.5rem;
+}
