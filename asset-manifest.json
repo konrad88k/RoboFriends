@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/RoboFriends-ZTM/static/css/main.efba157b.css",
-    "main.js": "/RoboFriends-ZTM/static/js/main.62fca5d4.js",
-    "index.html": "/RoboFriends-ZTM/index.html",
-    "static/media/x_input.svg": "/RoboFriends-ZTM/static/media/x_input.32ad9378a67e86546e95.svg",
-    "main.efba157b.css.map": "/RoboFriends-ZTM/static/css/main.efba157b.css.map",
-    "main.62fca5d4.js.map": "/RoboFriends-ZTM/static/js/main.62fca5d4.js.map"
+    "main.css": "/RoboFriends/static/css/main.008b0c2c.css",
+    "main.js": "/RoboFriends/static/js/main.62fca5d4.js",
+    "index.html": "/RoboFriends/index.html",
+    "static/media/x_input.svg": "/RoboFriends/static/media/x_input.32ad9378a67e86546e95.svg",
+    "main.008b0c2c.css.map": "/RoboFriends/static/css/main.008b0c2c.css.map",
+    "main.62fca5d4.js.map": "/RoboFriends/static/js/main.62fca5d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.efba157b.css",
+    "static/css/main.008b0c2c.css",
     "static/js/main.62fca5d4.js"
   ]
 }
