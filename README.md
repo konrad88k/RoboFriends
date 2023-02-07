@@ -1,4 +1,4 @@
-# [>> RoboFriends <<](https://konrad88k.github.io/RoboFriends-ZTM/)
+# [>> RoboFriends <<](https://konrad88k.github.io/RoboFriends/)
 
 The application was created with React library and was a part of the "Zero to Mastery - Web Developer" course.
 
