@@ -1,7 +1,5 @@
 # [>> RoboFriends <<](https://konrad88k.github.io/RoboFriends/)
 
-Application created with Create React App during the "Zero to Mastery - Web Developer" course.
-
 You can simply filter robot cards by typing their name in search input.
 
 - - -
